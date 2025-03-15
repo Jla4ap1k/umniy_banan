@@ -186,7 +186,7 @@ h1::first-line {
 /*экран2*/
 
 .temi {
-    background: url('/img/fon3.jpg') no-repeat top;
+    background: url('img/fon3.jpg') no-repeat top;
     width: 100%;
     height: 100vh;
     background-size: cover;
@@ -424,7 +424,7 @@ h1::first-line {
 /*экран3*/
 
 .zadaniya {
-    background: url('/img/fon4.jpg') no-repeat top;
+    background: url('img/fon4.jpg') no-repeat top;
     width: 100%;
     height: 100vh;
     background-size: cover;
